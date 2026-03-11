@@ -10,6 +10,7 @@ short_description: Real-time speech transcription, entirely in your browser.
 models:
 - mistralai/Voxtral-Mini-4B-Realtime-2602
 - onnx-community/Voxtral-Mini-4B-Realtime-2602-ONNX
+header: mini
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
