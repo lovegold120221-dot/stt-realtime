@@ -11,6 +11,7 @@ models:
 - mistralai/Voxtral-Mini-4B-Realtime-2602
 - onnx-community/Voxtral-Mini-4B-Realtime-2602-ONNX
 header: mini
+thumbnail: https://cdn-uploads.huggingface.co/production/uploads/61b253b7ac5ecaae3d1efe0c/PP6mKU_7fk8ahf-ALA1nu.png
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
