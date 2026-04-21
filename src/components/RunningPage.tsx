@@ -69,7 +69,7 @@ export const RunningPage = () => {
           >
             <div className="flex min-h-[40px] flex-col justify-center">
               <p className="text-xs font-mono uppercase tracking-[0.3em] text-gray-500">
-                Voxtral Realtime
+                Eburon Realtime
               </p>
               <h1 className="mt-1 text-xl font-semibold leading-none tracking-tight md:text-2xl">
                 Real-time transcription

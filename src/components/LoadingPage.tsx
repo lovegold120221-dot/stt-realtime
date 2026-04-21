@@ -77,7 +77,7 @@ export const LoadingPage = () => {
               {isError ? "Initialization Failed" : "Loading Model"}
             </h2>
             <p className="text-sm text-gray-500 font-mono uppercase tracking-widest">
-              {isError ? "Voxtral-Mini-4B-Realtime" : loadingMessage}
+              {isError ? "Eburon Realtime Transcription" : loadingMessage}
             </p>
           </div>
 

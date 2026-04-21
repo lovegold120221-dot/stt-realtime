@@ -11,7 +11,7 @@ const FEATURES = [
     step: "1",
     title: "Load Model",
     description:
-      "This demo downloads and caches Voxtral-Mini-4B, a realtime transcription model optimized for in-browser inference (~2.8 GB).",
+      "This demo downloads and caches Eburon Echo Pro, a realtime transcription model optimized for in-browser inference (~2.8 GB).",
   },
   {
     step: "2",
@@ -77,26 +77,12 @@ export const LandingPage = () => {
                 className="text-6xl md:text-7xl font-semibold tracking-tighter"
                 style={{ color: THEME.textBlack }}
               >
-                Voxtral Realtime
+                Eburon Realtime
               </h1>
             </div>
 
             <p className="text-xl md:text-2xl text-gray-600 max-w-2xl mx-auto font-light leading-relaxed">
               Real-time speech transcription, entirely in your browser.
-              <br />
-              Powered by{" "}
-              <a
-                href="https://huggingface.co/onnx-community/Voxtral-Mini-4B-Realtime-2602-ONNX"
-                className="font-medium underline decoration-2 underline-offset-4 transition-all hover:decoration-[3px]"
-                style={{
-                  color: THEME.mistralOrange,
-                  textDecorationColor: THEME.mistralOrange,
-                }}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Voxtral-Mini-4B
-              </a>
             </p>
           </div>
 
